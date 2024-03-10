@@ -1,7 +1,7 @@
 # Senac-PTI-III
 ## Protótipo de Gestão Escolar
 
-![texto alternativo](https://github.com/Tita-Simoni/Senac-PTI-III/blob/main/Prot%C3%B3tipo%20Gest%C3%A3o%20Escolar/Prot%C3%B3tipo%20Gest%C3%A3o%20Escolar.pdf)
+![texto alternativo](https://github.com/Tita-Simoni/Senac-PTI-III/blob/main/Prot%C3%B3tipo%20Gest%C3%A3o%20Escolar/Prot%C3%B3tipo%20Gest%C3%A3o%20Escolar.jpg)
 
 PASSOS DE CADASTRAMENTO
 Para o cadastramento vale ressaltar que existem 3 tipos de cadastros para a este tipo de unidade de negócio, cadastro de aluno, cadastro de professor e cadastro de fornecedor, onde, se fez necessário uma POO que estes 3 possíveis cadastros derivam de um principal. Com esta informação inicial, daremos segmento a sequência de cadastramento em nosso sistema.
