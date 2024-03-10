@@ -2,7 +2,7 @@
 ## Protótipo de Gestão Escolar
 
 
-![texto alternativo](https://github.com/Tita-Simoni/Senac-PTI-III/blob/main/Prot%C3%B3tipo%20Gest%C3%A3o%20Escolar/Prot%C3%B3tipo%20Gest%C3%A3o%20Escolar.jpg "Telas de aplicativo de cadastro de estão escolar")
+![imagem apresenta sequência de telas de cadastro de software de gstão escolar](https://github.com/Tita-Simoni/Senac-PTI-III/blob/main/Prot%C3%B3tipo%20Gest%C3%A3o%20Escolar/Prot%C3%B3tipo%20Gest%C3%A3o%20Escolar.jpg "Telas de aplicativo de cadastro de gestão escolar")
 
 ### PASSOS DE CADASTRAMENTO
 
