@@ -8,6 +8,8 @@
 
 Para o cadastramento vale ressaltar que existem 3 tipos de cadastros para a este tipo de unidade de negócio, cadastro de aluno, cadastro de professor e cadastro de fornecedor, onde, se fez necessário uma POO que estes 3 possíveis cadastros derivam de um principal. Com esta informação inicial, daremos segmento a sequência de cadastramento em nosso sistema.
 
+A imagem acima mostra a aparência e sequência das telas de cadastro.
+
 Passo 1- Será necessário inserir os dados de Login e senha para ter acesso ao sistema de gestão escolar.
 Após ter acesso ao sistema, o usuário irá para a página principal do sistema. Onde será possível escolher que tipo de cadastro será necessário naquele momento (aluno, professor ou fornecedor).
 
